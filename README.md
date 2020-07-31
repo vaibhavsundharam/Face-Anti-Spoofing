@@ -6,4 +6,6 @@ Acknowledgements:
 2. Chingovska, I & Anjos, André & Marcel, Sébastien. (2012). On the Effectiveness of Local Binary Patterns in Face Anti-spoofing. IEEE International Conference of the Biometrics Special Interest Group. 
 
 
-Like to the dataset: http://parnec.nuaa.edu.cn/xtan/NUAAImposterDB_download.html
+Like to the dataset 
+1. NUAA: http://parnec.nuaa.edu.cn/xtan/NUAAImposterDB_download.html
+2. Replay Attack: https://www.idiap.ch/dataset/replayattack
